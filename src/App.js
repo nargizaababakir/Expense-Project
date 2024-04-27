@@ -13,7 +13,7 @@ console.log(func);
   return (
     <div className="App">
       <Test/>
-      <h1>hello</h1>
+      <h1>Hello Osh</h1>
     </div>
   );
 }
